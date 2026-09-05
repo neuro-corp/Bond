@@ -18,6 +18,51 @@
       "context": "262K",
       "released": "2026-04-03",
       "endpoint": "https://openrouter.ai/api/v1/chat/completions"
+    },
+    {
+      "id": "nvidia/nemotron-3.5-lightning:free",
+      "name": "Nemotron 3.5 Lightning",
+      "provider": "NVIDIA",
+      "price": "Free",
+      "context": "1M",
+      "released": "2026-08-11",
+      "endpoint": "https://openrouter.ai/api/v1/chat/completions"
+    },
+    {
+      "id": "minimax/minimax-m3:free",
+      "name": "MiniMax M3",
+      "provider": "MiniMax",
+      "price": "Free",
+      "context": "1M",
+      "released": "2026-05-31",
+      "endpoint": "https://openrouter.ai/api/v1/chat/completions"
+    },
+    {
+      "id": "nvidia/nemotron-3-ultra-550b-a55b:free",
+      "name": "Nemotron 3 Ultra",
+      "provider": "NVIDIA",
+      "price": "Free",
+      "context": "1M",
+      "released": "2026-06-04",
+      "endpoint": "https://openrouter.ai/api/v1/chat/completions"
+    },
+    {
+      "id": "cohere/north-mini-code:free",
+      "name": "North Mini Code",
+      "provider": "Cohere",
+      "price": "Free",
+      "context": "256K",
+      "released": "2026-06-18",
+      "endpoint": "https://openrouter.ai/api/v1/chat/completions"
+    },
+    {
+      "id": "liquid/lfm-2.5-2.6b:free",
+      "name": "LFM2.5-2.6B",
+      "provider": "LiquidAI",
+      "price": "Free",
+      "context": "66K",
+      "released": "2026-08-11",
+      "endpoint": "https://openrouter.ai/api/v1/chat/completions"
     }
   ]
 }
