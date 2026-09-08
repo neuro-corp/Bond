@@ -1,1 +1,28 @@
-
+{
+  "provider": "NVIDIA",
+  "baseURL": "https://integrate.api.nvidia.com/v1",
+  "models": [
+    {
+      "id": "nvidia/nemotron-3-ultra-550b-a55b",
+      "name": "Nemotron 3 Ultra 550B A55B",
+      "provider": "NVIDIA",
+      "price": "NVIDIA API",
+      "context": "1M",
+      "endpoint": "https://integrate.api.nvidia.com/v1/chat/completions",
+      "supportsStreaming": true,
+      "supportsReasoning": true,
+      "thinkingParameter": "chat_template_kwargs.enable_thinking"
+    },
+    {
+      "id": "nvidia/nemotron-3-super-120b-a12b",
+      "name": "Nemotron 3 Super 120B A12B",
+      "provider": "NVIDIA",
+      "price": "NVIDIA API",
+      "context": "1M",
+      "endpoint": "https://integrate.api.nvidia.com/v1/chat/completions",
+      "supportsStreaming": true,
+      "supportsReasoning": true,
+      "thinkingParameter": "chat_template_kwargs.enable_thinking"
+    }
+  ]
+}
