@@ -1,8 +1,50 @@
-create new json for google,
-**Gemini 3.8 Flash** (`gemini-3.8-flash`  )
-
-1. **Gemini 3.7 Flash** (`gemini-3.7-flash`)
-
-1) **Gemini 3.6 Flash** (`gemini-3.6-flash`)
-
-1. **Gemini 3.5 Flash** (`gemini-3.5-flash`
+{
+  "provider": "Google",
+  "baseURL": "https://generativelanguage.googleapis.com/v1beta",
+  "models": [
+    {
+      "id": "gemini-3.8-flash",
+      "name": "Gemini 3.8 Flash",
+      "provider": "Google",
+      "price": "Google API",
+      "context": "1M",
+      "endpoint": "https://generativelanguage.googleapis.com/v1beta/models/gemini-3.8-flash:generateContent",
+      "supportsStreaming": true,
+      "supportsReasoning": true,
+      "thinkingParameter": "thinkingConfig"
+    },
+    {
+      "id": "gemini-3.7-flash",
+      "name": "Gemini 3.7 Flash",
+      "provider": "Google",
+      "price": "Google API",
+      "context": "1M",
+      "endpoint": "https://generativelanguage.googleapis.com/v1beta/models/gemini-3.7-flash:generateContent",
+      "supportsStreaming": true,
+      "supportsReasoning": true,
+      "thinkingParameter": "thinkingConfig"
+    },
+    {
+      "id": "gemini-3.6-flash",
+      "name": "Gemini 3.6 Flash",
+      "provider": "Google",
+      "price": "Google API",
+      "context": "1M",
+      "endpoint": "https://generativelanguage.googleapis.com/v1beta/models/gemini-3.6-flash:generateContent",
+      "supportsStreaming": true,
+      "supportsReasoning": true,
+      "thinkingParameter": "thinkingConfig"
+    },
+    {
+      "id": "gemini-3.5-flash",
+      "name": "Gemini 3.5 Flash",
+      "provider": "Google",
+      "price": "Google API",
+      "context": "1M",
+      "endpoint": "https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash:generateContent",
+      "supportsStreaming": true,
+      "supportsReasoning": true,
+      "thinkingParameter": "thinkingConfig"
+    }
+  ]
+}
