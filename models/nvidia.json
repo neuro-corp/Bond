@@ -1,28 +1,40 @@
 {
   "provider": "NVIDIA",
-  "baseURL": "https://integrate.api.nvidia.com/v1",
+  "providerId": "nvidia",
+  "endpoint": "https://integrate.api.nvidia.com/v1/chat/completions",
+  "logo": "nvidia.svg",
   "models": [
     {
-      "id": "nvidia/nemotron-3-ultra-550b-a55b",
-      "name": "Nemotron 3 Ultra 550B A55B",
-      "provider": "NVIDIA",
-      "price": "NVIDIA API",
-      "context": "1M",
-      "endpoint": "https://integrate.api.nvidia.com/v1/chat/completions",
-      "supportsStreaming": true,
-      "supportsReasoning": true,
-      "thinkingParameter": "chat_template_kwargs.enable_thinking"
+      "id": "moonshotai/kimi-k3",
+      "name": "Kimi K3",
+      "provider": "Moonshot AI",
+      "logo": "moonshotai.svg",
+      "price": "Free",
+      "context": 1000000
     },
     {
-      "id": "nvidia/nemotron-3-super-120b-a12b",
-      "name": "Nemotron 3 Super 120B A12B",
+      "id": "deepseek-ai/deepseek-v4-flash-0731",
+      "name": "DeepSeek V4 Flash",
+      "provider": "DeepSeek AI",
+      "logo": "deepseek.svg",
+      "price": "Free",
+      "context": 1000000
+    },
+    {
+      "id": "nvidia/nemotron-3.5-lightning-30b-a3b",
+      "name": "Nemotron 3.5 Lightning 30B",
       "provider": "NVIDIA",
-      "price": "NVIDIA API",
-      "context": "1M",
-      "endpoint": "https://integrate.api.nvidia.com/v1/chat/completions",
-      "supportsStreaming": true,
-      "supportsReasoning": true,
-      "thinkingParameter": "chat_template_kwargs.enable_thinking"
+      "logo": "nvidia.svg",
+      "price": "Free",
+      "context": 1000000
+    },
+    {
+      "id": "meta/muse-glimmer-30b",
+      "name": "Muse Glimmer 30B",
+      "provider": "Meta",
+      "logo": "meta.svg",
+      "price": "Free",
+      "context": 131000
     }
   ]
 }
