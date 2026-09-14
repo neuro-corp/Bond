@@ -1,1 +1,10 @@
-
+{
+  "version": "1.0.0",
+  "downloadUrl": "https://your-domain.com/downloads/Bond-Setup-1.0.1.exe",
+  "releaseNotes": [
+    "Improved AI Agent performance",
+    "Improved project intelligence",
+    "Fixed terminal issues"
+  ],
+  "mandatory": false
+}
