@@ -16,7 +16,7 @@
       "id": "google/gemma-4-31b-it",
       "name": "Gemma 4 31B IT",
       "provider": "Google",
-      "logo": "google.svg",
+      "logo": "gemini.svg",
       "price": "Free",
       "context": 262000
     },
