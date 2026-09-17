@@ -1,10 +1,14 @@
 {
   "version": "1.0.0-beta.0",
-  "downloadUrl": "https://your-domain.com/downloads/Bond-Setup-1.0.1.exe",
+  "downloadUrl": "https://github.com/neuro-corp/Bond/releases/download/v1.0.0-beta.0/Bond-Windows-1.0.0-beta.0-Setup.exe",
   "releaseNotes": [
-    "Improved AI Agent performance",
-    "Improved project intelligence",
-    "Fixed terminal issues"
+    "First public beta release of Bond",
+    "Agentic coding with project-aware AI",
+    "Local project and file operations",
+    "Developer tools and terminal integration",
+    "Real-time agent activity",
+    "Support for multiple AI providers",
+    "No account required"
   ],
   "mandatory": false
 }
