@@ -1,21 +1,41 @@
-MIT License
+BOND SOFTWARE LICENSE
 
-Copyright (c) 2026 Neuro Corporation
+Copyright (c) 2026 Neuro
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+All rights reserved.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Bond ("Software") is proprietary software developed and distributed by Neuro.
+
+Permission is granted to users to install and use the Software for personal,
+educational, or commercial purposes, subject to the terms of this license.
+
+You may:
+
+- Install and use the Software on compatible devices.
+- Use the Software for personal, educational, or commercial development.
+- Distribute projects or software created using Bond.
+
+You may not:
+
+- Modify, reverse engineer, decompile, disassemble, or attempt to derive the
+  source code of the Software, except where such activity is expressly permitted
+  by applicable law.
+- Copy, redistribute, sell, sublicense, rent, lease, or otherwise distribute
+  the Software itself without written permission from Neuro.
+- Remove copyright, trademark, or other proprietary notices from the Software.
+- Use the Software to create a substantially similar competing product by
+  extracting, copying, or reproducing its proprietary implementation.
+
+The Bond name, logo, branding, and associated trademarks remain the property
+of Neuro and are not granted under this license.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL
+NEURO OR ITS AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES,
+OR OTHER LIABILITY ARISING FROM OR IN CONNECTION WITH THE SOFTWARE OR THE
+USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+This license applies to the compiled Bond software distributed by Neuro.
+Third-party libraries, models, SDKs, and other components included with or
+used by Bond may be subject to their own licenses and terms.
