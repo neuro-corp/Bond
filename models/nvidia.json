@@ -28,6 +28,14 @@
       "price": "Free",
       "context": 262000
     },
+     {
+      "id": "deepseek-ai/deepseek-v4.1-flash",
+      "name": "DeepSeek-V4.1-Flash",
+      "provider": "Mistral AI",
+      "logo": "deepseek.svg",
+      "price": "Free",
+      "context": 262144
+    },
     {
       "id": "mistralai/mistral-nemotron",
       "name": "Mistral Nemotron",
