@@ -1,11 +1,14 @@
 {
   "provider": "Google",
+  "providerId": "google",
   "baseURL": "https://generativelanguage.googleapis.com/v1beta",
+  "logo": "google.svg",
   "models": [
     {
       "id": "gemini-3.8-flash",
       "name": "Gemini 3.8 Flash",
       "provider": "Google",
+      "logo": "gemini.svg",
       "price": "Google API",
       "context": "1M",
       "endpoint": "https://generativelanguage.googleapis.com/v1beta/models/gemini-3.8-flash:generateContent",
@@ -18,6 +21,7 @@
       "id": "gemini-3.7-flash",
       "name": "Gemini 3.7 Flash",
       "provider": "Google",
+      "logo": "gemini.svg",
       "price": "Google API",
       "context": "1M",
       "endpoint": "https://generativelanguage.googleapis.com/v1beta/models/gemini-3.7-flash:generateContent",
@@ -30,6 +34,7 @@
       "id": "gemini-3.6-flash",
       "name": "Gemini 3.6 Flash",
       "provider": "Google",
+      "logo": "gemini.svg",
       "price": "Google API",
       "context": "1M",
       "endpoint": "https://generativelanguage.googleapis.com/v1beta/models/gemini-3.6-flash:generateContent",
@@ -42,6 +47,7 @@
       "id": "gemini-3.5-flash",
       "name": "Gemini 3.5 Flash",
       "provider": "Google",
+      "logo": "gemini.svg",
       "price": "Google API",
       "context": "1M",
       "endpoint": "https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash:generateContent",
@@ -49,30 +55,6 @@
       "supportsReasoning": true,
       "thinkingParameter": "thinkingConfig",
       "description": "Our legacy Flash model, providing baseline speed and foundational performance for routine, high-throughput workloads."
-    },
-    {
-      "id": "gemini-3.5-flash-lite",
-      "name": "Gemini 3.5 Flash-Lite",
-      "provider": "Google",
-      "price": "Google API",
-      "context": "1M",
-      "endpoint": "https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent",
-      "supportsStreaming": true,
-      "supportsReasoning": false,
-      "thinkingParameter": "thinkingConfig",
-      "description": "Our fastest, most cost-effective 3.5 model for high-throughput execution."
-    },
-    {
-      "id": "gemini-3.1-flash-lite",
-      "name": "Gemini 3.1 Flash-Lite",
-      "provider": "Google",
-      "price": "Google API",
-      "context": "1M",
-      "endpoint": "https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite:generateContent",
-      "supportsStreaming": true,
-      "supportsReasoning": false,
-      "thinkingParameter": "thinkingConfig",
-      "description": "Frontier-class performance rivaling larger models at a fraction of the cost."
     }
   ]
 }
