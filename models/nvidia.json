@@ -21,14 +21,6 @@
       "context": 1000000
     },
     {
-      "id": "google/gemma-4-31b-it",
-      "name": "Gemma 4 31B IT",
-      "provider": "Google",
-      "logo": "gemini.svg",
-      "price": "Free",
-      "context": 262000
-    },
-    {
       "id": "meta/muse-glimmer-30b",
       "name": "Muse Glimmer 30B",
       "provider": "Meta",
