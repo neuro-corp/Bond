@@ -21,10 +21,26 @@
       "context": 1000000
     },
     {
-      "id": "poolside/laguna-xs-2.1",
-      "name": "Laguna XS 2.1",
-      "provider": "Poolside",
-      "logo": "poolside.svg",
+      "id": "meta/muse-glimmer-30b",
+      "name": "Muse Glimmer 30B",
+      "provider": "NVIDIA",
+      "logo": "meta.svg",
+      "price": "Free",
+      "context": 131000
+    },
+    {
+      "id": "deepseek-ai/deepseek-v4.1-flash",
+      "name": "DeepSeek V4.1 Flash",
+      "provider": "NVIDIA",
+      "logo": "deepseek.svg",
+      "price": "Free",
+      "context": 1000000
+    },
+    {
+      "id": "z-ai/glm-5-3",
+      "name": "GLM 5.3 753B",
+      "provider": "Z.AI",
+      "logo": "zai.svg",
       "price": "Free",
       "context": 262000
     }
