@@ -37,7 +37,7 @@
       "context": 1000000
     },
     {
-      "id": "z-ai/glm-5.3",
+      "id": "z-ai/glm-5-3",
       "name": "GLM 5.3 753B",
       "provider": "Z.AI",
       "logo": "zai.svg",
