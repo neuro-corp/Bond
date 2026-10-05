@@ -39,7 +39,7 @@
     {
       "id": "z-ai/glm-5.3",
       "name": "GLM 5.3 753B",
-      "provider": "Z.AI",
+      "provider": "NVIDIA",
       "logo": "zai.svg",
       "price": "Free",
       "context": 1048576
