@@ -1,8 +1,8 @@
 {
   "task_name": "Goal",
   "target_value": 1000,
-  "amount_raised": 990,
+  "amount_raised": 10,
   "currency": "USD",
   "remaining": 990,
-  "progress_percent": 0
+  "progress_percent": 1
 }
