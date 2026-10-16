@@ -5,6 +5,14 @@
   "logo": "nvidia.svg",
   "models": [
     {
+      "id": "nemotron-3.5-super-vl-120b-a12b",
+      "name": "Nemotron-3.5-Super-vl-120B",
+      "provider": "NVIDIA",
+      "logo": "nvidia.svg",
+      "price": "Free",
+      "context": 262000
+    },
+    {
       "id": "nvidia/nemotron-3-ultra-550b-a55b",
       "name": "Nemotron 3 Ultra 550B",
       "provider": "NVIDIA",
